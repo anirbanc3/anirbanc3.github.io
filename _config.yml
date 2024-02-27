@@ -21,7 +21,7 @@ repository               : "anirbanc3/anirbanc3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "../profile.png"
   name             : "Anirban Chakraborty"
   pronouns         : "he/him"  
   bio              : "Research Associate at IIT Kharagpur"
