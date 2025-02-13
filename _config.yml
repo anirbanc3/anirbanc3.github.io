@@ -8,13 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Anirban"
+title                    : "Anirban Chakraborty"
 title_separator          : "-"
 name                     : &name "Anirban Chakraborty"
 description              : &description "personal description"
 url                      : "https://anirbanc3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anirbanc3/anirbanc3.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,11 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Anirban Chakraborty"
   pronouns         : "he/him"  
-  bio              : "Research Associate at IIT Kharagpur"
-  location         : "Kolkata, India"
-  employer         : "Indian Institute of Technology\n Kharagpur"
-  uri              : "iitkgp.ac.in"
-  email            : "ch.anirban00727@gmail.com" 
+  bio              : "Postdoctoral Researcher at MPI-SP and Visiting Researcher at RUB"
+  location         : "Bochum, Germany"
+  employer         : "MPI-SP, Bochum"
+  email            : "anirban.chakraborty@mpi-sp.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -55,14 +55,14 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "anirban-chakraborty-b20926aa"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
-  tumblr           : # Username
+  tumblr           : # www.linkedin.com/in/anirban-chakraborty-b20926aa
   twitter          : "@anirban727"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
@@ -75,7 +75,7 @@ author:
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 200
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -185,6 +185,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
+  math_engine: mathjax
   input: GFM
   hard_wrap: false
   auto_ids: true
@@ -196,77 +197,17 @@ kramdown:
 
 
 # Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+collections: {}
 
 
 # Defaults
 defaults:
-  # _posts
   - scope:
-      path: ""
-      type: posts
+      path: "_pages/about.md"
     values:
       layout: single
+      permalink: /
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
 
 # Sass/SCSS
 sass:
@@ -275,10 +216,10 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: CET # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
