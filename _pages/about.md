@@ -15,7 +15,7 @@ I am currently working postdoctoral researcher at the [Max Planck Institute for 
 
 # News!
 
-* Jan 2025: Our paper  _Systematic Evaluation of Randomized Cache Designs against Cache Occupancy_ got accepted at Usenix 2025.
+* Feb 2025: Our paper  _Systematic Evaluation of Randomized Cache Designs against Cache Occupancy_ got accepted at Usenix 2025.
 
 * Jan 2025: Our paper  _IND-CPA^C : A New Security Notion for Conditional Decryption in Fully Homomorphic Encryption_ got accepted at PQCrypto 2025.
 
