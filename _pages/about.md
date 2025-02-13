@@ -32,7 +32,7 @@ I am currently working postdoctoral researcher at the [Max Planck Institute for 
  ---
  
 # Selected Publications {#publications}
-<div class="wordwrap">The full list can be found at <a href="https://dblp.org/pid/73/2286-3.html">my dblp profile</a>.</div>
+<div class="wordwrap">The full list can be found at <a href="https://dblp.org/pid/73/2286-3.html" target="_blank">my dblp profile <i class="fas fa-external-link-alt"></i></a>.</div>
 ## Conferences
 
 - <u>Anirban Chakraborty</u>, Nimish Mishra, Sayandeep Saha, Sarani Bhattacharya, Debdeep Mukhopadhyay: **Systematic Evaluation of Randomized Cache Designs against Cache Occupancy**: _34th USENIX Security Symposium (Usenix 2025), Seattle, WA, USA: August, 2025. (accepted)_
