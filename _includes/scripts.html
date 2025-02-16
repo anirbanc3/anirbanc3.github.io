@@ -2,3 +2,32 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const toggle = document.createElement("button");
+  toggle.innerText = "🌙 Dark Mode";
+  toggle.style.position = "fixed";
+  toggle.style.top = "10px";
+  toggle.style.right = "10px";
+  toggle.style.padding = "5px 10px";
+  toggle.style.cursor = "pointer";
+  toggle.style.zIndex = "9999";
+
+  document.body.appendChild(toggle);
+
+  const setTheme = (theme) => {
+    document.documentElement.setAttribute("data-theme", theme);
+    localStorage.setItem("theme", theme);
+    toggle.innerText = theme === "dark" ? "☀️ Light Mode" : "🌙 Dark Mode";
+  };
+
+  toggle.addEventListener("click", () => {
+    const currentTheme = localStorage.getItem("theme") === "dark" ? "light" : "dark";
+    setTheme(currentTheme);
+  });
+
+  const savedTheme = localStorage.getItem("theme") || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  setTheme(savedTheme);
+});
+</script>
