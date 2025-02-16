@@ -11,10 +11,10 @@
 }
 
 body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
 }
 
 a {
-  color: var(--link-color);
+  color: var(--link-color) !important;
 }
