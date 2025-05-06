@@ -43,8 +43,6 @@ I am currently working as a postdoctoral researcher at the [Max Planck Institute
 
 - Nimish Mishra, <u>Anirban Chakraborty</u>, Debdeep Mukhopadhyay: **Faults in Our Bus: Novel Bus Fault Attack to Break ARM TrustZone**: _The Network and Distributed System Security Symposium (NDSS 2024), San Diego, CA, USA: Feb-March, 2024_.
 
-- <u>Anirban Chakraborty</u>, Sarani Bhattacharya, Sayandeep Saha, Debdeep Mukhopadhyay: **Are Randomized Caches Truly Random? Formal Analysis of Randomized-Partitioned Caches**: _29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023), Montreal, Canada: February 2023_.
-
 - <u>Anirban Chakraborty</u>, Nikhilesh Singh, Sarani Bhattacharya, Chester Rebeiro, Debdeep Mukhopadhyay: **Timed speculative attacks exploiting store-to-load forwarding bypassing cache-based countermeasures**: _59th ACM/IEEE Design Automation Conference (DAC 2022), San Francisco, California, USA: July, 2022_.
 
 
