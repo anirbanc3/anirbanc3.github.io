@@ -54,7 +54,7 @@ I am currently working as a postdoctoral researcher at the [Max Planck Institute
 
 ## Preprints/ Arxiv
 
-- Bhuvnesh Chaturvedi, <u>Anirban Chakraborty</u>, Ayantika Chatterjee, Debdeep Mukhopadhyay: **$vr^2$ FHE: Securing FHE from Reaction-based Key Recovery Attacks**: _IACR Cryptology ePrint Arch. 2023: 561 (2023)_.
+- Bhuvnesh Chaturvedi, <u>Anirban Chakraborty</u>, Ayantika Chatterjee, Debdeep Mukhopadhyay: **vr<sup>2</sup>FHE: Securing FHE from Reaction-based Key Recovery Attacks**: _IACR Cryptology ePrint Arch. 2023: 561 (2023)_.
 - <u>Anirban Chakraborty</u>, Sarani Bhattacharya, Sayandeep Saha, Debdeep Mukhopadhyay: **Rowhammer-induced intermittent fault attack on ECC-hardened memory**: _IACR Cryptology ePrint Arch. 2020: 380 (2020)_.
 
 # Talks and Presentations {#talks}
