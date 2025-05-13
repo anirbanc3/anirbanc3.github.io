@@ -15,17 +15,20 @@ I am currently working as a postdoctoral researcher at the [Max Planck Institute
 
 # News!
 
+* May 2025: Our paper _Minimal Counters, Maximum Insight: Simplifying System Performance with HPC Clusters for Optimized Monitoring_ accepted for publication at IEEE CAL.
+  
 * Feb 2025: Our paper  _Systematic Evaluation of Randomized Cache Designs against Cache Occupancy_ got accepted at Usenix 2025.
 
 * Jan 2025: Our paper  _IND-CPA^C : A New Security Notion for Conditional Decryption in Fully Homomorphic Encryption_ got accepted at PQCrypto 2025.
 
 * I am serving as a PC member for ACNS 2025 and CCS 2025.
 
-* Jun 2024: I have joined Max Planck Institute for Security and Privacy in Bochum, Germany as a postdoctoral researcher.
-
 <details>
   <summary> Older News</summary>
+  - Oct 2024: Successfully defended PhD Thesis.
   
+  - Jun 2024: I have joined Max Planck Institute for Security and Privacy in Bochum, Germany as a postdoctoral researcher.
+    
   - Jan 2024: Completed PhD at Indian Institute of Technology Kharagpur, India.
 
 </details>
