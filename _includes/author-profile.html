@@ -8,9 +8,10 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+    	<a href="{{ author.avatar }}" target="_blank" rel="noopener" title="View full picture"><img src="{{ author.avatar }}" alt="{{ author.name }}"></a>
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+    	{% capture avatar_url %}{{ author.avatar | prepend: "/images/" | prepend: base_path }}{% endcapture %}
+    	<a href="{{ avatar_url }}" target="_blank" rel="noopener" title="View full picture"><img src="{{ avatar_url }}" class="author__avatar" alt="{{ author.name }}"></a>
     {% endif %}
   </div>
 
