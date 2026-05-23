@@ -2,33 +2,3 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const toggle = document.createElement("button");
-  toggle.className = "theme-toggle";
-  toggle.setAttribute("aria-label", "Toggle dark mode");
-  toggle.innerHTML = '<span class="theme-toggle__icon">🌙</span>';
-  document.body.appendChild(toggle);
-
-  const setTheme = (theme) => {
-    document.documentElement.setAttribute("data-theme", theme);
-    localStorage.setItem("theme", theme);
-    toggle.querySelector(".theme-toggle__icon").textContent =
-      theme === "dark" ? "☀" : "🌙";
-  };
-
-  toggle.addEventListener("click", () => {
-    const next =
-      document.documentElement.getAttribute("data-theme") === "dark"
-        ? "light"
-        : "dark";
-    setTheme(next);
-  });
-
-  const saved =
-    localStorage.getItem("theme") ||
-    (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
-  setTheme(saved);
-});
-</script>
