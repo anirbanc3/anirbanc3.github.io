@@ -17,21 +17,18 @@ My research interests span all aspects of Hardware Security with a primary focus
 
 # News
 
-* **May 2025** — Our paper _Minimal Counters, Maximum Insight: Simplifying System Performance with HPC Clusters for Optimized Monitoring_ accepted at **IEEE CAL**.
-* **Feb 2025** — Our paper _Systematic Evaluation of Randomized Cache Designs against Cache Occupancy_ accepted at **USENIX Security 2025**.
-* **Jan 2025** — Our paper _IND-CPA<sup>C</sup>: A New Security Notion for Conditional Decryption in Fully Homomorphic Encryption_ accepted at **PQCrypto 2025**.
-* **2025** — Serving on the **Program Committee** for **ACNS 2025** and **CCS 2025**.
-* **May 2024** — Speaker at **Black Hat Asia 2024**, Singapore.
-* **2024** — **PhD Dissertation Award runner-up** at IEEE HOST 2024.
+* Our paper accepted at **DIMVA 2026**.
 
 <details>
   <summary>Older news</summary>
 
   <ul>
-    <li><strong>Oct 2024</strong> — Successfully defended PhD thesis.</li>
-    <li><strong>Jun 2024</strong> — Joined the Max Planck Institute for Security and Privacy in Bochum, Germany as a postdoctoral researcher.</li>
-    <li><strong>Jan 2024</strong> — Completed PhD at the Indian Institute of Technology Kharagpur, India.</li>
-    <li><strong>2022</strong> — Awarded CVE-2022-47549 for demonstrating bypass of signature verification via electromagnetic fault injections in OP-TEE.</li>
+    <li><strong>May 2025</strong> — Our paper <em>Minimal Counters, Maximum Insight: Simplifying System Performance with HPC Clusters for Optimized Monitoring</em> accepted at <strong>IEEE CAL</strong>.</li>
+    <li><strong>Feb 2025</strong> — Our paper <em>Systematic Evaluation of Randomized Cache Designs against Cache Occupancy</em> accepted at <strong>USENIX Security 2025</strong>.</li>
+    <li><strong>Jan 2025</strong> — Our paper <em>IND-CPA<sup>C</sup>: A New Security Notion for Conditional Decryption in Fully Homomorphic Encryption</em> accepted at <strong>PQCrypto 2025</strong>.</li>
+    <li><strong>2025</strong> — Serving on the <strong>Program Committee</strong> for <strong>ACNS 2025</strong> and <strong>CCS 2025</strong>.</li>
+    <li><strong>May 2024</strong> — Speaker at <strong>Black Hat Asia 2024</strong>, Singapore.</li>
+    <li><strong>2024</strong> — <strong>PhD Dissertation Award runner-up</strong> at IEEE HOST 2024.</li>
   </ul>
 </details>
 
