@@ -50,25 +50,11 @@ My research interests span all aspects of Hardware Security with a primary focus
 
 - Nimish Mishra, Rahul Arvind Mool, <u>Anirban Chakraborty</u>, Debdeep Mukhopadhyay. **Plug Your Volt: Protecting Intel Processors against Dynamic Voltage Frequency Scaling based Fault Attacks.** _61st ACM/IEEE Design Automation Conference (DAC 2024)_, San Francisco, CA, USA, July 2024.
 
-- Nimish Mishra, Tridib Lochan Dutta, Shubhi Shukla, <u>Anirban Chakraborty</u>, Debdeep Mukhopadhyay. **Too Hot to Handle: Novel Thermal Side-Channels in Power Attack protected Intel Processors.** _IEEE International Symposium on Hardware Oriented Security and Trust (HOST 2024)_, Washington DC, USA, May 2024.
-
 - Nimish Mishra, <u>Anirban Chakraborty</u>, Debdeep Mukhopadhyay. **Faults in Our Bus: Novel Bus Fault Attack to Break ARM TrustZone.** _Network and Distributed System Security Symposium (NDSS 2024)_, San Diego, CA, USA, February–March 2024.
-
-- <u>Anirban Chakraborty</u>, Sarani Bhattacharya, Sayandeep Saha, Debdeep Mukhopadhyay. **Are Randomized Caches Truly Random? Formal Analysis of Randomized-Partitioned Caches.** _IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)_, Montreal, Canada, February 2023.
-
-- Rajat Sadhukhan, <u>Anirban Chakraborty</u>, Debdeep Mukhopadhyay. **FUNDAE: Fault Template Attack on SUNDAE-GIFT AEAD Scheme.** _Asian Hardware Oriented Security and Trust Symposium (AsianHOST 2022)_, Singapore, December 2022.
-
-- Nimish Mishra, <u>Anirban Chakraborty</u>, Urbi Chatterjee, Debdeep Mukhopadhyay. **Time's a Thief of Memory — Breaking Multi-tenant Isolation in TrustZones Through Timing Based Bidirectional Covert Channels.** _Smart Card Research and Advanced Applications Conference (CARDIS 2022)_, Birmingham, UK, November 2022.
 
 - <u>Anirban Chakraborty</u>\*, Nikhilesh Singh\*, Sarani Bhattacharya, Chester Rebeiro, Debdeep Mukhopadhyay. **Timed Speculative Attacks Exploiting Store-to-Load Forwarding Bypassing Cache-based Countermeasures.** _59th ACM/IEEE Design Automation Conference (DAC 2022)_, San Francisco, CA, USA, July 2022. (\*Equal contribution)
 
-- Rajat Sadhukhan, <u>Anirban Chakraborty</u>, Nilanjan Datta, Sikhar Patranabis, Debdeep Mukhopadhyay. **Light but Tight: Lightweight Composition of Serialized S-Boxes with Diffusion Layers for Strong Ciphers.** _Security, Privacy, and Applied Cryptography Engineering (SPACE 2022)_, Jaipur, India, December 2022.
-
-- <u>Anirban Chakraborty</u>, Manaar Alam, Debdeep Mukhopadhyay. **A Good Anvil Fears No Hammer: Automated Rowhammer Detection Using Unsupervised Deep Learning.** _International Conference on Applied Cryptography and Network Security Workshop (ACNS Workshop)_, Kamakura, Japan, June 2021.
-
 - <u>Anirban Chakraborty</u>, Sarani Bhattacharya, Sayandeep Saha, Debdeep Mukhopadhyay. **ExplFrame: Exploiting Page Frame Cache for Fault Analysis of Block Ciphers.** _IEEE Design, Automation and Test in Europe Conference (DATE 2020)_, Grenoble, France, March 2020.
-
-- <u>Anirban Chakraborty</u>, Manaar Alam, Debdeep Mukhopadhyay. **Deep Learning Based Diagnostics for Rowhammer Protection of DRAM Chips.** _IEEE Asian Test Symposium (ATS 2019)_, Kolkata, India, November 2019.
 
 ## Journals
 
@@ -78,13 +64,6 @@ My research interests span all aspects of Hardware Security with a primary focus
 
 - <u>Anirban Chakraborty</u>, Sarani Bhattacharya, Manaar Alam, Sikhar Patranabis, Debdeep Mukhopadhyay. **RASSLE: Return Address Stack based Side-channel Leakage.** _IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)_, 2021, issue 2: 275–303.
 
-- Sikhar Patranabis, Debapriya Basu Roy, <u>Anirban Chakraborty</u>, Naveen Nagar, Astikey Singh, Debdeep Mukhopadhyay, Santosh Ghosh. **Lightweight Design-for-Security Strategies for Combined Countermeasures Against Side Channel and Fault Analysis in IoT Applications.** _Journal of Hardware and Systems Security (HASS)_, September 2018.
-
-## Preprints
-
-- Bhuvnesh Chaturvedi, <u>Anirban Chakraborty</u>, Ayantika Chatterjee, Debdeep Mukhopadhyay. **vr<sup>2</sup>FHE: Securing FHE from Reaction-based Key Recovery Attacks.** _IACR Cryptology ePrint Archive_ 2023:561.
-
-- <u>Anirban Chakraborty</u>, Sarani Bhattacharya, Sayandeep Saha, Debdeep Mukhopadhyay. **Rowhammer-induced Intermittent Fault Attack on ECC-hardened Memory.** _IACR Cryptology ePrint Archive_ 2020:380.
 
 ***
 
@@ -92,12 +71,14 @@ My research interests span all aspects of Hardware Security with a primary focus
 
 - **Speaker**, [Black Hat Asia Briefings 2024](https://www.blackhat.com/asia-24/), Singapore — May 2024.
 - **Invited Talk**, ACM India ARCS 2023.
-- **Conference talks** at USENIX Security, NDSS, HPCA, DAC, ESORICS, PQCrypto, CANS, EuroS&P, DATE, CARDIS, AsianHOST, SPACE, HOST, ATS, and ACNS workshops accompanying the publications above.
+
 
 # Teaching {#teaching}
 
 **Ruhr-Universität Bochum**
 - _2024–2025_ — **Microarchitectural Attacks and Defenses**, with Prof. Yuval Yarom.
+- _Summer 2025_ — **Cache Attacks**, with Prof. Yuval Yarom.
+- _Summer 2026_ — **Introduction to CPU Design**, with Prof. Yuval Yarom.
 
 **Indian Institute of Technology Kharagpur**
 - _2020–2023_ — **High-Performance Computer Architecture**, with Prof. Debdeep Mukhopadhyay.
@@ -109,21 +90,18 @@ My research interests span all aspects of Hardware Security with a primary focus
 
 # Professional Service {#service}
 
-**Program Committee** &nbsp;·&nbsp; ACNS 2025 &nbsp;·&nbsp; CCS 2025
+**Program Committee** &nbsp;·&nbsp; ACNS 2025 &nbsp;·&nbsp; CCS 2025, 2026 &nbsp;·&nbsp; Usenix SEC 2026 &nbsp;·&nbsp; CHES 2026
 
 **Artifact Evaluation** &nbsp;·&nbsp; CCS 2023 &nbsp;·&nbsp; HPCA 2024
 
-**External Reviewer — Conferences** &nbsp;·&nbsp; CHES &nbsp;·&nbsp; IEEE S&P (Oakland) &nbsp;·&nbsp; DAC &nbsp;·&nbsp; DATE &nbsp;·&nbsp; ISQED &nbsp;·&nbsp; SPACE &nbsp;·&nbsp; ICCAD &nbsp;·&nbsp; CARDIS &nbsp;·&nbsp; WOOT &nbsp;·&nbsp; COSADE &nbsp;·&nbsp; VLSID &nbsp;·&nbsp; ASHES &nbsp;·&nbsp; AsianHOST &nbsp;·&nbsp; ASP-DAC
 
-**External Reviewer — Journals** &nbsp;·&nbsp; IEEE TIFS &nbsp;·&nbsp; IEEE TC &nbsp;·&nbsp; ACM CSUR &nbsp;·&nbsp; ACM JETC &nbsp;·&nbsp; JCEN &nbsp;·&nbsp; ACM TECS &nbsp;·&nbsp; ACM TACO &nbsp;·&nbsp; IEEE TCAD
 
 # Awards & Highlights {#awards}
 
 - **CVE-2022-47549** awarded (with co-authors) for demonstrating bypass of signature verification and installation of malicious trusted applications via electromagnetic fault injections in OP-TEE.
 - Discovered (with co-authors) an **integer-overflow vulnerability** leading to a NULL-pointer dereference in Linaro TEE — patch merged into the **Linux kernel stable tree**.
 - **Intel Project Circuit Breaker Bug Bounty** (invited), awarded **US$ 4,500** for exploring vulnerabilities in Intel TDX.
-- **Speaker**, Black Hat Asia Briefings 2024, Singapore.
-- **PhD Dissertation Award runner-up**, IEEE HOST 2024.
+- **PhD Dissertation Award Finalist**, IEEE HOST 2024.
 - **PhD Forum Best Presentation Award nomination**, AsianHOST 2022.
 - **ACM-India / IARCS Travel Grant** for HPCA 2023, Montreal.
 - **Best Poster (2nd runner-up)**, SPACE 2020.
