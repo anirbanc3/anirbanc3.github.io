@@ -1,0 +1,11 @@
+# Build output
+_site/
+.jekyll-metadata
+.jekyll-cache/
+
+# Generated lockfile
+Gemfile.lock
+
+# OS
+.DS_Store
+Thumbs.db
