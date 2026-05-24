@@ -17,7 +17,7 @@ My research interests span all aspects of Hardware Security with a primary focus
 
 # News
 
-* Our paper accepted at **DIMVA 2026**.
+* **April 2025** — Our paper accepted at **DIMVA 2026**.
 
 <details>
   <summary>Older news</summary>
@@ -69,6 +69,7 @@ My research interests span all aspects of Hardware Security with a primary focus
 
 # Talks & Presentations {#talks}
 
+- **Speaker**, *Faults In Our Bus: Novel Bus Fault Attacks to Break ARM TrustZone*, ZTHA@CHES2024
 - **Speaker**, [Black Hat Asia Briefings 2024](https://www.blackhat.com/asia-24/), Singapore — May 2024.
 - **Invited Talk**, ACM India ARCS 2023.
 
@@ -90,10 +91,11 @@ My research interests span all aspects of Hardware Security with a primary focus
 
 # Professional Service {#service}
 
-**Program Committee** &nbsp;·&nbsp; ACNS 2025 &nbsp;·&nbsp; CCS 2025, 2026 &nbsp;·&nbsp; Usenix SEC 2026 &nbsp;·&nbsp; CHES 2026
+**Program Committee** &nbsp;·&nbsp; ACNS 2025 &nbsp;·&nbsp; CCS 2025, 2026 &nbsp;·&nbsp; Usenix SEC 2026 &nbsp;·&nbsp; CHES 2026 &nbsp;·&nbsp; WOOT 2026
 
 **Artifact Evaluation** &nbsp;·&nbsp; CCS 2023 &nbsp;·&nbsp; HPCA 2024
 
+**Journal/Transactions** &nbsp;·&nbsp; IEEE TIFS, IEEE TC, ACM TACO, JHASS, JETC, ACM CSUR
 
 
 # Awards & Highlights {#awards}
@@ -106,7 +108,6 @@ My research interests span all aspects of Hardware Security with a primary focus
 - **ACM-India / IARCS Travel Grant** for HPCA 2023, Montreal.
 - **Best Poster (2nd runner-up)**, SPACE 2020.
 - **Winner and runner-up**, CSAW Embedded Security Challenge India, 2022 and 2020.
-- **Invited Talk**, ACM India ARCS 2023.
 
 # Curriculum Vitae {#cv}
 
