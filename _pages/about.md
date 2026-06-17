@@ -17,7 +17,7 @@ My research interests span all aspects of Hardware Security with a primary focus
 
 # News
 
-* **April 2025** — Our paper accepted at **DIMVA 2026**.
+* **April 2026** — Our paper accepted at **DIMVA 2026**.
 
 <details>
   <summary>Older news</summary>
@@ -34,13 +34,23 @@ My research interests span all aspects of Hardware Security with a primary focus
 
 ***
 
-# Selected Publications {#publications}
+# Recent Publications {#publications}
 
 <div class="wordwrap">The full list can be found at <a href="https://dblp.org/pid/73/2286-3.html" target="_blank">my dblp profile <i class="fas fa-external-link-alt"></i></a> or <a href="https://scholar.google.com/citations?user=QzcCWLMAAAAJ&hl=en" target="_blank">Google Scholar <i class="fas fa-external-link-alt"></i></a>.</div>
 
 ## Conferences
-
+- Roland Czerny, Simon Lammer, Lukas Giner, <u>Anirban Chakraborty</u>, Daniel Gruss. **: Fast and Secure LLC Caches via Spatial Windows.** _23rd Conference on Detection of Intrusions and Malware &
+Vulnerability Assessment (DIMVA 2026)_, Chania, Greece, July, 2026.
+  
+- Yanik Kleibrink, <u>Anirban Chakraborty</u>, Yuval Yarom. **General Store: Speculative Address Translation in x86 Processors.** _Proceedings of the Microarchitecture Security Conference (uASC 2026)_, Leuven, Belgium,
+February, 2026.
+      
 - <u>Anirban Chakraborty</u>, Nimish Mishra, Sayandeep Saha, Sarani Bhattacharya, Debdeep Mukhopadhyay. **Systematic Evaluation of Randomized Cache Designs against Cache Occupancy.** _34th USENIX Security Symposium (USENIX Security 2025)_, Seattle, WA, USA, August 2025.
+
+- Bhuvnesh Chaturvedi, <u>Anirban Chakraborty</u>, Ayantika Chatterjee, Debdeep Mukhopadhyay. ** IND-CPA<sup>C</sup> :A New Security Notion for Conditional Decryption in Fully Homomorphic Encryption:.** _6th
+International Conference on Post-Quantum Cryptography (PQCRYPTO 2025)_, Taipei, Taiwan, April,2025.
+
+- Bhuvnesh Chaturvedi, <u>Anirban Chakraborty</u>, Ayantika Chatterjee, Debdeep Mukhopadhyay. **Model Stealing Attacks On FHE-based Privacy-Preserving Machine Learning through Adversarial Examples.** _23rd International Conference on Cryptology And Network Security (CANS 2024)_, Cambridge, UK, September, 2024.
 
 - Bhuvnesh Chaturvedi, <u>Anirban Chakraborty</u>, Ayantika Chatterjee, Debdeep Mukhopadhyay. **"Ask and Thou Shall Receive": Reaction-based Full Key Recovery Attacks on FHE.** _29th European Symposium on Research in Computer Security (ESORICS 2024)_, Bydgoszcz, Poland, September 2024.
 
@@ -50,19 +60,16 @@ My research interests span all aspects of Hardware Security with a primary focus
 
 - Nimish Mishra, Rahul Arvind Mool, <u>Anirban Chakraborty</u>, Debdeep Mukhopadhyay. **Plug Your Volt: Protecting Intel Processors against Dynamic Voltage Frequency Scaling based Fault Attacks.** _61st ACM/IEEE Design Automation Conference (DAC 2024)_, San Francisco, CA, USA, July 2024.
 
+- Nimish Mishra, Tridib Lochan Dutta, Shubhi Shukla, <u>Anirban Chakraborty</u>, Debdeep Mukhopadhyay. **Too Hot to Handle: Novel Thermal Side-Channels in Power Attack-protected Intel processors.** _IEEE International Symposium on Hardware Oriented Security and Trust (HOST 2024)_,  Washington DC, USA, May, 2024.
+
 - Nimish Mishra, <u>Anirban Chakraborty</u>, Debdeep Mukhopadhyay. **Faults in Our Bus: Novel Bus Fault Attack to Break ARM TrustZone.** _Network and Distributed System Security Symposium (NDSS 2024)_, San Diego, CA, USA, February–March 2024.
 
-- <u>Anirban Chakraborty</u>\*, Nikhilesh Singh\*, Sarani Bhattacharya, Chester Rebeiro, Debdeep Mukhopadhyay. **Timed Speculative Attacks Exploiting Store-to-Load Forwarding Bypassing Cache-based Countermeasures.** _59th ACM/IEEE Design Automation Conference (DAC 2022)_, San Francisco, CA, USA, July 2022. (\*Equal contribution)
-
-- <u>Anirban Chakraborty</u>, Sarani Bhattacharya, Sayandeep Saha, Debdeep Mukhopadhyay. **ExplFrame: Exploiting Page Frame Cache for Fault Analysis of Block Ciphers.** _IEEE Design, Automation and Test in Europe Conference (DATE 2020)_, Grenoble, France, March 2020.
 
 ## Journals
 
+- Shubhi Shukla, Abhijeet Singh, Rajdeep Chakraborty, <u>Anirban Chakraborty</u>, Harshal Mumbaikar, Manoj Kumar Munigala, Madhusudhan K N, Pabitra Mitra, Debdeep Mukhopadhyay. **Minimal Counters, Maximum Insight: Simplifying System Performance with HPC Clusters for Optimized Monitoring.** _IEEE Computer Architecture Letters (CAL)_: 177-180 (2025).
+- 
 - Nimish Mishra, Kuheli Pratihar, Satota Mandal, <u>Anirban Chakraborty</u>, Ulrich Rührmair, Debdeep Mukhopadhyay. **CalyPSO: An Enhanced Search Optimization based Framework to Model Delay-based PUFs.** _IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)_, 2024, issue 1: 501–526.
-
-- <u>Anirban Chakraborty</u>, Manaar Alam, Vishal Dey, Anupam Chattopadhyay, Debdeep Mukhopadhyay. **A Survey on Adversarial Attacks and Defences.** _CAAI Transactions on Intelligence Technology_, 6(1): 25–45, 2021.
-
-- <u>Anirban Chakraborty</u>, Sarani Bhattacharya, Manaar Alam, Sikhar Patranabis, Debdeep Mukhopadhyay. **RASSLE: Return Address Stack based Side-channel Leakage.** _IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)_, 2021, issue 2: 275–303.
 
 
 ***
@@ -108,7 +115,3 @@ My research interests span all aspects of Hardware Security with a primary focus
 - **ACM-India / IARCS Travel Grant** for HPCA 2023, Montreal.
 - **Best Poster (2nd runner-up)**, SPACE 2020.
 - **Winner and runner-up**, CSAW Embedded Security Challenge India, 2022 and 2020.
-
-# Curriculum Vitae {#cv}
-
-[Download CV (PDF)](files/CV.pdf)
