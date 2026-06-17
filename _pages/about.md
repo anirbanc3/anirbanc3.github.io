@@ -47,7 +47,7 @@ February, 2026.
       
 - <u>Anirban Chakraborty</u>, Nimish Mishra, Sayandeep Saha, Sarani Bhattacharya, Debdeep Mukhopadhyay. **Systematic Evaluation of Randomized Cache Designs against Cache Occupancy.** _34th USENIX Security Symposium (USENIX Security 2025)_, Seattle, WA, USA, August 2025.
 
-- Bhuvnesh Chaturvedi, <u>Anirban Chakraborty</u>, Ayantika Chatterjee, Debdeep Mukhopadhyay. ** IND-CPA<sup>C</sup> :A New Security Notion for Conditional Decryption in Fully Homomorphic Encryption:.** _6th
+- Bhuvnesh Chaturvedi, <u>Anirban Chakraborty</u>, Ayantika Chatterjee, Debdeep Mukhopadhyay. **IND-CPA<sup>C</sup> :A New Security Notion for Conditional Decryption in Fully Homomorphic Encryption:.** _6th
 International Conference on Post-Quantum Cryptography (PQCRYPTO 2025)_, Taipei, Taiwan, April,2025.
 
 - Bhuvnesh Chaturvedi, <u>Anirban Chakraborty</u>, Ayantika Chatterjee, Debdeep Mukhopadhyay. **Model Stealing Attacks On FHE-based Privacy-Preserving Machine Learning through Adversarial Examples.** _23rd International Conference on Cryptology And Network Security (CANS 2024)_, Cambridge, UK, September, 2024.
