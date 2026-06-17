@@ -17,7 +17,7 @@ My research interests span all aspects of Hardware Security with a primary focus
 
 # News
 
-* **April 2026** — Our paper accepted at <em>Fast and Secure LLC Caches via Spatial Windows</em> <strong>DIMVA 2026</strong>.
+* **April 2026** — Our paper <em>Fast and Secure LLC Caches via Spatial Windows</em> accepted at <strong>DIMVA 2026</strong>.
 
 <details>
   <summary>Older news</summary>
