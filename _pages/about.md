@@ -18,6 +18,7 @@ My research interests span all aspects of Hardware Security with a primary focus
 # News
 
 * **April 2026** — Our paper <em>Fast and Secure LLC Caches via Spatial Windows</em> accepted at <strong>DIMVA 2026</strong>.
+* **July 2026**  — Our paper <em>0xELF: Reverse Engineering Framework for Flexo-Generated Weird Machines</em> accepted at <strong>RAID 2026</strong>.
 
 <details>
   <summary>Older news</summary>
@@ -39,6 +40,9 @@ My research interests span all aspects of Hardware Security with a primary focus
 <div class="wordwrap">The full list can be found at <a href="https://dblp.org/pid/73/2286-3.html" target="_blank">my dblp profile <i class="fas fa-external-link-alt"></i></a> or <a href="https://scholar.google.com/citations?user=QzcCWLMAAAAJ&hl=en" target="_blank">Google Scholar <i class="fas fa-external-link-alt"></i></a>.</div>
 
 ## Conferences
+- Gianmarco Lusvardi, Mauro Andreolini, Luca Ferretti, Yuval Yarom, <u>Anirban Chakraborty</u>. **0xELF: Reverse Engineering Framework for Flexo-Generated Weird Machines.** _29th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2026)_, Lancaster, UK,
+October, 2026.
+
 - Roland Czerny, Simon Lammer, Lukas Giner, <u>Anirban Chakraborty</u>, Daniel Gruss. **: Fast and Secure LLC Caches via Spatial Windows.** _23rd Conference on Detection of Intrusions and Malware &
 Vulnerability Assessment (DIMVA 2026)_, Chania, Greece, July, 2026.
   
