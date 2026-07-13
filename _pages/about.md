@@ -73,7 +73,7 @@ International Conference on Post-Quantum Cryptography (PQCRYPTO 2025)_, Taipei, 
 ## Journals
 
 - Shubhi Shukla, Abhijeet Singh, Rajdeep Chakraborty, <u>Anirban Chakraborty</u>, Harshal Mumbaikar, Manoj Kumar Munigala, Madhusudhan K N, Pabitra Mitra, Debdeep Mukhopadhyay. **Minimal Counters, Maximum Insight: Simplifying System Performance with HPC Clusters for Optimized Monitoring.** _IEEE Computer Architecture Letters (CAL)_: 177-180 (2025).
-- 
+  
 - Nimish Mishra, Kuheli Pratihar, Satota Mandal, <u>Anirban Chakraborty</u>, Ulrich Rührmair, Debdeep Mukhopadhyay. **CalyPSO: An Enhanced Search Optimization based Framework to Model Delay-based PUFs.** _IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)_, 2024, issue 1: 501–526.
 
 
