@@ -17,6 +17,7 @@ My research interests span all aspects of Hardware Security with a primary focus
 
 # News
 
+* **July 2026**  — Our paper <em>"They don't care about this": A Systematic Study of TEE Build Reproducibility in the Wild</em> accepted at <strong>CCS 2026</strong>.
 * **July 2026**  — Our paper <em>0xELF: Reverse Engineering Framework for Flexo-Generated Weird Machines</em> accepted at <strong>RAID 2026</strong>.
 * **April 2026** — Our paper <em>Fast and Secure LLC Caches via Spatial Windows</em> accepted at <strong>DIMVA 2026</strong>.
 
@@ -41,6 +42,8 @@ My research interests span all aspects of Hardware Security with a primary focus
 <div class="wordwrap">The full list can be found at <a href="https://dblp.org/pid/73/2286-3.html" target="_blank">my dblp profile <i class="fas fa-external-link-alt"></i></a> or <a href="https://scholar.google.com/citations?user=QzcCWLMAAAAJ&hl=en" target="_blank">Google Scholar <i class="fas fa-external-link-alt"></i></a>.</div>
 
 ## Conferences
+- Annika Wilde, Marco Gutfleisch, Felix Reichmann, <u>Anirban Chakraborty</u>, Yuval Yarom, Angela Sasse, Ghassan Karame. **"They don't care about this": A Systematic Study of TEE Build Reproducibility in the Wild.** _33rd ACM Conference on Computer and Communications Security (CCS 2026)_, The Hague, Netherlands, November, 2026.
+
 - Gianmarco Lusvardi, Mauro Andreolini, Luca Ferretti, Yuval Yarom, <u>Anirban Chakraborty</u>. **0xELF: Reverse Engineering Framework for Flexo-Generated Weird Machines.** _29th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2026)_, Lancaster, UK,
 October, 2026.
 
