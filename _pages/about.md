@@ -68,7 +68,8 @@ International Conference on Post-Quantum Cryptography (PQCRYPTO 2025)_, Taipei, 
 
 # Talks & Presentations {#talks}
 
-- **Speaker**, *Faults In Our Bus: Novel Bus Fault Attacks to Break ARM TrustZone*, ZTHA@CHES2024
+- **Speaker**, *Verifying Constant-Time Java at Scale: Toward Trustworthy Crypto on Managed Runtimes*, Universität zu Lübeck — June 2026.
+- **Speaker**, *Faults In Our Bus: Novel Bus Fault Attacks to Break ARM TrustZone*, ZTHA@CHES2024.
 - **Speaker**, [Black Hat Asia Briefings 2024](https://www.blackhat.com/asia-24/), Singapore — May 2024.
 - **Invited Talk**, ACM India ARCS 2023.
 
