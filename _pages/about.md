@@ -59,27 +59,10 @@ February, 2026.
 - Bhuvnesh Chaturvedi, <u>Anirban Chakraborty</u>, Ayantika Chatterjee, Debdeep Mukhopadhyay. **IND-CPA<sup>C</sup> :A New Security Notion for Conditional Decryption in Fully Homomorphic Encryption:.** _16th
 International Conference on Post-Quantum Cryptography (PQCRYPTO 2025)_, Taipei, Taiwan, April,2025.
 
-- Bhuvnesh Chaturvedi, <u>Anirban Chakraborty</u>, Ayantika Chatterjee, Debdeep Mukhopadhyay. **Model Stealing Attacks On FHE-based Privacy-Preserving Machine Learning through Adversarial Examples.** _23rd International Conference on Cryptology And Network Security (CANS 2024)_, Cambridge, UK, September, 2024.
-
-- Bhuvnesh Chaturvedi, <u>Anirban Chakraborty</u>, Ayantika Chatterjee, Debdeep Mukhopadhyay. **"Ask and Thou Shall Receive": Reaction-based Full Key Recovery Attacks on FHE.** _29th European Symposium on Research in Computer Security (ESORICS 2024)_, Bydgoszcz, Poland, September 2024.
-
-- <u>Anirban Chakraborty</u>, Nimish Mishra, Debdeep Mukhopadhyay. **Shesha: Multi-head Microarchitectural Leakage Discovery in new-generation Intel Processors.** _33rd USENIX Security Symposium (USENIX Security 2024)_, Philadelphia, PA, USA, August 2024.
-
-- Animesh Singh, Smita Das, <u>Anirban Chakraborty</u>, Rajat Sadhukhan, Ayantika Chatterjee, Debdeep Mukhopadhyay. **FHEDA: Efficient Circuit Synthesis with Reduced Bootstrapping for Torus FHE.** _9th IEEE European Symposium on Security and Privacy (EuroS&P 2024)_, Vienna, Austria, July 2024.
-
-- Nimish Mishra, Rahul Arvind Mool, <u>Anirban Chakraborty</u>, Debdeep Mukhopadhyay. **Plug Your Volt: Protecting Intel Processors against Dynamic Voltage Frequency Scaling based Fault Attacks.** _61st ACM/IEEE Design Automation Conference (DAC 2024)_, San Francisco, CA, USA, July 2024.
-
-- Nimish Mishra, Tridib Lochan Dutta, Shubhi Shukla, <u>Anirban Chakraborty</u>, Debdeep Mukhopadhyay. **Too Hot to Handle: Novel Thermal Side-Channels in Power Attack-protected Intel processors.** _IEEE International Symposium on Hardware Oriented Security and Trust (HOST 2024)_,  Washington DC, USA, May, 2024.
-
-- Nimish Mishra, <u>Anirban Chakraborty</u>, Debdeep Mukhopadhyay. **Faults in Our Bus: Novel Bus Fault Attack to Break ARM TrustZone.** _Network and Distributed System Security Symposium (NDSS 2024)_, San Diego, CA, USA, February–March 2024.
-
 
 ## Journals
 
 - Shubhi Shukla, Abhijeet Singh, Rajdeep Chakraborty, <u>Anirban Chakraborty</u>, Harshal Mumbaikar, Manoj Kumar Munigala, Madhusudhan K N, Pabitra Mitra, Debdeep Mukhopadhyay. **Minimal Counters, Maximum Insight: Simplifying System Performance with HPC Clusters for Optimized Monitoring.** _IEEE Computer Architecture Letters (CAL)_: 177-180 (2025).
-  
-- Nimish Mishra, Kuheli Pratihar, Satota Mandal, <u>Anirban Chakraborty</u>, Ulrich Rührmair, Debdeep Mukhopadhyay. **CalyPSO: An Enhanced Search Optimization based Framework to Model Delay-based PUFs.** _IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)_, 2024, issue 1: 501–526.
-
 
 ***
 
