@@ -100,11 +100,14 @@ International Conference on Post-Quantum Cryptography (PQCRYPTO 2025)_, Taipei, 
 
 # Awards & Highlights {#awards}
 
-- **CVE-2022-47549** awarded (with co-authors) for demonstrating bypass of signature verification and installation of malicious trusted applications via electromagnetic fault injections in OP-TEE.
-- Discovered (with co-authors) an **integer-overflow vulnerability** leading to a NULL-pointer dereference in Linaro TEE — patch merged into the **Linux kernel stable tree**.
+- **CVE-2026-5598** awarded for discovering non-constant time comparisons leading to private key leakage in FrodoKEM in BouncyCastle.
+- **CVE-2024-14041** awarded for discovering non-constant-time division in message decoding and ciphertext compression in Kyber KEM in BouncyCastle.
+- **CVE-2022-47549** awarded for demonstrating bypass of signature verification and installation of malicious trusted applications via electromagnetic fault injections in OP-TEE.
+- Discovered (with team) an **integer-overflow vulnerability** leading to a NULL-pointer dereference in Linaro TEE — patch merged into the **Linux kernel stable tree**.
 - **Intel Project Circuit Breaker Bug Bounty** (invited), awarded **US$ 4,500** for exploring vulnerabilities in Intel TDX.
 - **PhD Dissertation Award Finalist**, IEEE HOST 2024.
 - **PhD Forum Best Presentation Award nomination**, AsianHOST 2022.
+- Awarded **Ernst Mach Grant, worldwide** research scholarship in 2024 (_declined_).
 - **ACM-India / IARCS Travel Grant** for HPCA 2023, Montreal.
 - **Best Poster (2nd runner-up)**, SPACE 2020.
 - **Winner and runner-up**, CSAW Embedded Security Challenge India, 2022 and 2020.
