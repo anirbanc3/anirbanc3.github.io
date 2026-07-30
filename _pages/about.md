@@ -91,7 +91,7 @@ International Conference on Post-Quantum Cryptography (PQCRYPTO 2025)_, Taipei, 
 
 # Professional Service {#service}
 
-**Program Committee** &nbsp;·&nbsp; ACNS 2025 &nbsp;·&nbsp; CCS 2025, 2026 &nbsp;·&nbsp; Usenix SEC 2026 &nbsp;·&nbsp; CHES 2026 &nbsp;·&nbsp; WOOT 2026
+**Program Committee** &nbsp;·&nbsp; ACNS 2025 &nbsp;·&nbsp; CCS 2025, 2026 &nbsp;·&nbsp; Usenix SEC 2026, 2027 &nbsp;·&nbsp; CHES 2026 &nbsp;·&nbsp; WOOT 2026 &nbsp;·&nbsp; AsianHOST 2026
 
 **Artifact Evaluation** &nbsp;·&nbsp; CCS 2023 &nbsp;·&nbsp; HPCA 2024
 
