@@ -16,7 +16,7 @@ My research interests span all aspects of Hardware Security with a primary focus
 ***
 
 # News
-* **November 2026** -- Preprint [available](https://arxiv.org/abs/2611.00282) <em>Randomized Caches in Hardware: Challenges and Trade-offs</em> co-authored with Xinrui Wang, Pascal Kosak, Christof Paar, Daniel Genkin, and Yuval Yarom.
+* **November 2026** — Preprint [available](https://arxiv.org/abs/2611.00282) <em>Randomized Caches in Hardware: Challenges and Trade-offs</em> co-authored with Xinrui Wang, Pascal Kosak, Christof Paar, Daniel Genkin, and Yuval Yarom.
 * **October 2026**  — Assigned [CVE-2026-18036](https://www.cve.org/CVERecord?id=CVE-2026-18036) and [CVE-2026-18040](https://www.cve.org/CVERecord?id=CVE-2026-18040) and for discovering timing leakage in HQC and NTRU implementations, resp., in BouncyCastle.
 * **July 2026**  — Assigned [CVE-2026-5598](https://www.cve.org/CVERecord?id=CVE-2026-5598) for discovering timing leakage in FrodoKEM implementation in BouncyCastle.
 * **July 2026**  — Our paper <em>"They don't care about this": A Systematic Study of TEE Build Reproducibility in the Wild</em> accepted at <strong>CCS 2026</strong>.
