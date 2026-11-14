@@ -114,4 +114,4 @@ International Conference on Post-Quantum Cryptography (PQCRYPTO 2025)_, Taipei, 
 - **Winner and runner-up**, CSAW Embedded Security Challenge India, 2022 and 2020.
 
 # Curriculum Vitae {#cv}
-[Curriculum Vitae (PDF)]({{ '/files/CV.pdf' | relative_url }})
+[Curriculum Vitae (PDF)]({{ '/files/Curriculum_Vitae_AnirbanChakraborty.pdf' | relative_url }})
