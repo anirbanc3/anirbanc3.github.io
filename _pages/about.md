@@ -112,3 +112,6 @@ International Conference on Post-Quantum Cryptography (PQCRYPTO 2025)_, Taipei, 
 - **ACM-India / IARCS Travel Grant** for HPCA 2023, Montreal.
 - **Best Poster (2nd runner-up)**, SPACE 2020.
 - **Winner and runner-up**, CSAW Embedded Security Challenge India, 2022 and 2020.
+
+# Curriculum Vitae {#cv}
+[Curriculum Vitae (PDF)]({{ '/files/CV.pdf' | relative_url }})
