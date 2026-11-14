@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently working as a postdoctoral researcher at the [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/), jointly hosted by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) and [Yuval Yarom](https://yuval.yarom.org/). I am also a visiting researcher at [Ruhr Universität Bochum](https://informatik.rub.de/en/). Previously, I was a PhD student under the supervision of [Debdeep Mukhopadhyay](https://sites.google.com/view/debdeepmukhopadhyay/home) at the [Indian Institute of Technology Kharagpur, India](https://www.iitkgp.ac.in/).
 
-My research interests span all aspects of Hardware Security with a primary focus on Microarchitecture and Systems Security. I am particularly interested in the design and testing of secure systems, Trusted Execution Environments (TEEs), and the security evaluation of cryptographic applications such as Fully Homomorphic Encryption schemes, symmetric-key cryptosystems, and Physically Unclonable Functions.
+My research focuses on microarchitectural and hardware security, particularly side-channel leakage, speculative execution, and secure processor design. I also develop automated techniques for analysing the security of cryptographic software and trusted execution environments, bridging hardware security, systems security, and software analysis.
 
 ***
 
